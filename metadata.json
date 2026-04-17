@@ -1,0 +1,12 @@
+{
+  "name": "ARISE - Shadow Monarch AI",
+  "description": "A premium AI assistant interface with advanced animations, glow effects, and voice interaction capabilities, themed after the Shadow Monarch.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "AI Chat",
+    "Voice Interaction",
+    "Quest System"
+  ]
+}
